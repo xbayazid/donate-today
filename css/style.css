@@ -146,7 +146,7 @@ body{
     width: 25%;
     height: 150px;
     margin: 5px;
-    margin-top: 5%;
+    margin-top: 8%;
     
 }
 .gellery-item img{
@@ -164,9 +164,6 @@ body{
     border-radius: 10px;
     margin-top: 50px;
 }
- /* .contact-form{
-    width: 400px;
-    margin: 0 auto; */
 
 .contact-form input{
     width: 50%;
@@ -182,13 +179,6 @@ body{
     padding: 10px 5px;
     border-radius: 5px;
 }
-
-/* .contact-form textarea{
-    width: 100%;
-    border-radius: 5px;
-    border: .5px;
-    margin-bottom: 15px;
-} */
 
 footer{
     margin-top: 50px;
